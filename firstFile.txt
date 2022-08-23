@@ -1,6 +1,6 @@
 1 git_1
-2
-3
+2 changes from folder_2
+3 changes from folder_2
 4
 5 git_1
 6
